@@ -1,5 +1,8 @@
 _repo: Three-Lancashire-Plays-The-Game-The-Northerners-Zack_55286
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: archival
+  image_path: 55286-h/images/cover.jpg
 creator:
   author:
     agent_name: Brighouse, Harold
@@ -9,6 +12,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/2011
     wikipedia: https://en.wikipedia.org/wiki/Harold_Brighouse
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/55286#Three-Lancashire-Plays-The-Game-The-Northerners-Zack
 gutenberg_issued: '2017-08-07'
 gutenberg_type: Text
 identifiers:
